@@ -15,3 +15,6 @@ This project implements a Retrieval Augmented Generation (RAG) based Q&A bot tha
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+## Testing
+Tested API endpoints using Postman.
